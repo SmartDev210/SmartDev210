@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Code-JD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
 ---
 
 <img align="left" alt="Code-JD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SmartDev210&show_icons=true&hide_border=true" />
