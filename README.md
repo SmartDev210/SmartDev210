@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Hello, I'm Elliot Zhang
 
-- ⚡ I’m currently learning all things .NET and Web development!⚡
+- ⚡ I’m currently learning all things .NET, Web development and Blockchain technology!⚡
 - 👯 I’m looking for new opportunities to create and build awesome projects with great people 🚧🤝
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 
