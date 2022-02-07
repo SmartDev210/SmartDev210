@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![stock-photo-c-sharp-programming-language-web-development-coding-concept-604209716](https://user-images.githubusercontent.com/79864567/145218597-14993ec8-a810-4538-86be-d83401c45e28.jpg)
 
-### Hello, I'm Elliot Zhang
+### Hello, I'm Senior Software developer
 
 - ⚡ I’m currently learning all things .NET, Web development and Blockchain technology!⚡
 - 👯 I’m looking for new opportunities to create and build awesome projects with great people 🚧🤝
