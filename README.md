@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SmartDev210&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![stock-photo-c-sharp-programming-language-web-development-coding-concept-604209716](https://user-images.githubusercontent.com/79864567/145218597-14993ec8-a810-4538-86be-d83401c45e28.jpg)
 
 ### Hello, I'm Senior Software developer
@@ -23,16 +25,15 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 
-
-
 ### Connect with me:
 
 [<img align="left" alt="Code-JD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Code-JD | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/proto-dot-io.svg" />][website]
 
----
 
-<img align="left" alt="Code-JD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SmartDev210&show_icons=true&hide_border=true" />
+---
+---
+<img align="left" alt="SmartDev210's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SmartDev210&show_icons=true&hide_border=true" />
 
 
 [website]: https://elliot-zhang.herokuapp.com/
