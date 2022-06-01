@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hello, I'm Senior Software developer
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SmartDev210&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-- ⚡ I’m currently learning all things .NET, Web development and Blockchain technology!⚡
+- ⚡ I’m currently learning all things .NET, Web development and Node/JS/TS technology!⚡
 - 👯 I’m looking for new opportunities to create and build awesome projects with great people 🚧🤝
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
