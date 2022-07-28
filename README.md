@@ -40,12 +40,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking for new opportunities to create and build awesome projects with great people 🚧🤝
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
-
-### Connect with me:
-
-[<img align="left" alt="Code-JD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Code-JD | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/proto-dot-io.svg" />][website]
-
-
-[website]: https://elliot-zhang.herokuapp.com/
-[linkedin]: https://www.linkedin.com/in/elliot-zhang-2b865b201/
